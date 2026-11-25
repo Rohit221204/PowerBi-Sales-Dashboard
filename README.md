@@ -53,3 +53,16 @@ Author
 Rohit Shinde
 
 GitHub: https://github.com/Rohit221204
+
+---
+
+## 📊 Dashboard Screenshots
+
+### 1. Key Insights
+![Key Insights](Dashboard1.png)
+
+### 2. Profit Analysis
+![Profit Analysis](Dashboard2.png)
+
+### 3. Performance Insights
+![Performance Insights](Dashboard3.png)
